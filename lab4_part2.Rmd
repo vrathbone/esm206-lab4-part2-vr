@@ -1,0 +1,21 @@
+---
+title: "Untitled"
+author: "Vanessa Rathbone"
+date: "10/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Attach packages
+
+```{r}
+
+library(tidyverse)
+library(plotly)
+library(DT)
+
+```
+
